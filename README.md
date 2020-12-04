@@ -14,26 +14,7 @@
 
 # Авторы
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm">
-      <h3>Максим Майко</h3>
-        <div class="col">
-          <a href="https://vk.com/maxjul"><img src="https://avatars2.githubusercontent.com/u/1478241?s=280&v=4" alt="иконка VK" width="40" height="40"></a>
-          <a href="mailto:apathists@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="иконка VK" width="40" height="40"></a>
-        </div>
-    </div>
-    <div class="col-sm">
-      Одна из трёх колонок
-    </div>
-    <div class="col-sm">
-      Одна из трёх колонок
-    </div>
-  </div>
-</div>
-
-
-<h3>Максим Майко</h3>
+### Максим Майко
 <div class="col">
   <a href="https://vk.com/maxjul"><img src="https://avatars2.githubusercontent.com/u/1478241?s=280&v=4" alt="иконка VK" width="40" height="40"></a>
   <a href="mailto:apathists@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="иконка VK" width="40" height="40"></a>
