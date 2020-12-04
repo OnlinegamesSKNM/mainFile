@@ -1,2 +1,2 @@
 # Здесь будет прописан план работы и сроки выполнения
-[ссылка](https://img.shields.io/github/languages/top/OnlinegamesSKNM/mainFile?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/OnlinegamesSKNM/mainFile?logo=GitHub&style=plastic)
