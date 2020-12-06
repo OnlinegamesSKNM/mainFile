@@ -6,7 +6,7 @@
 ![Текст по центру изображения](/images/image1.png)
 
 
-## <p style='color:blue'>Список необходимых модулей</p>:
+## Список необходимых модулей:
 1. **flask**
 1. **flask_sqlalchemy**
 1. **werkzeug.security**
