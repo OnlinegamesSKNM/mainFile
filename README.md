@@ -6,7 +6,10 @@
 ![Текст по центру изображения](/images/image1.png)
 
 
-
+## <font color='blue'>Список необходимых модулей</font>:
+1. **flask**
+1. **flask_sqlalchemy**
+1. **werkzeug.security**
 
 
 
