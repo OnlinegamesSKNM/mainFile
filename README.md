@@ -18,28 +18,11 @@
 # Авторы
 
 
-<h3> Макс Майко </h3>
-<div class="col">
-  <a href="https://vk.com/maxjul"><img src="https://avatars2.githubusercontent.com/u/1478241?s=280&v=4" alt="иконка VK" width="40" height="40"></a>
-  <a href="mailto:apathists@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="иконка VK" width="40" height="40"></a>
-</div>
-<h3> Настя Евдокимова </h3>
-<div class="col">
-  <a href="https://vk.com/evdokiii"><img src="https://avatars2.githubusercontent.com/u/1478241?s=280&v=4" alt="иконка VK" width="40" height="40"></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="иконка VK" width="40" height="40"></a>
-</div>
-<h3> Катя Костыра </h3>
-<div class="col">
-  <a href="https://vk.com/id172125070"><img src="https://avatars2.githubusercontent.com/u/1478241?s=280&v=4" alt="иконка VK" width="40" height="40"></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="иконка VK" width="40" height="40"></a>
-</div>
-<h3> Соня Попова </h3>
-<div class="col">
-  <a href="https://vk.com/s.popova21"><img src="https://avatars2.githubusercontent.com/u/1478241?s=280&v=4" alt="иконка VK" width="40" height="40"></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="иконка VK" width="40" height="40"></a>
-</div>
+### <a href="https://vk.com/maxjul">Макс Майко</a> 
+### <a href="https://vk.com/evdokiii"> Настя Евдокимова</a>
+### <a href="https://vk.com/id172125070"> Катя Костыра</a>
+### <a href="https://vk.com/s.popova21"> Соня Попова </a>
 
-
-<div class="container-fluid">
+<div>
   <hr> &copy; SKNM gaming 2020
 </div>
