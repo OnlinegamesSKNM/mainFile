@@ -17,7 +17,7 @@
 
 # Авторы
 
-<div class="col">
+<div class="container-fluid">
   <h3> Макс Майко </h3>
   <div class="col">
     <a href="https://vk.com/maxjul"><img src="https://avatars2.githubusercontent.com/u/1478241?s=280&v=4" alt="иконка VK" width="40" height="40"></a>
