@@ -1,3 +1,5 @@
+#Перед запуском необходимо выполнить 'pip install flask, flask_sqlalchemy, flask_login'
+
 from flask import Flask, render_template
 
 app= Flask(__name__)
