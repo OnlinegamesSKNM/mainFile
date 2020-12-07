@@ -9,7 +9,7 @@
 ## Список необходимых модулей:
 1. **flask**
 1. **flask_sqlalchemy**
-1. **werkzeug.security**
+1. **flask_login**
 
 
 
