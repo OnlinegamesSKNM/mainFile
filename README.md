@@ -17,14 +17,12 @@
 
 # Авторы
 
-<div class="col">
-  <h3> Максим Майко </h3>
-  <div class="col">
-    <a href="https://vk.com/maxjul"><img src="https://avatars2.githubusercontent.com/u/1478241?s=280&v=4" alt="иконка VK" width="40" height="40"></a>
-    <a href="mailto:apathists@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="иконка VK" width="40" height="40"></a>
-  </div>
-</div>
 
-<div class="container-fluid">
+### <a href="https://vk.com/maxjul">Макс Майко</a> 
+### <a href="https://vk.com/evdokiii"> Настя Евдокимова</a>
+### <a href="https://vk.com/id172125070"> Катя Костыра</a>
+### <a href="https://vk.com/s.popova21"> Соня Попова </a>
+
+<div>
   <hr> &copy; SKNM gaming 2020
 </div>
