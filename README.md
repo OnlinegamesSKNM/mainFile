@@ -11,6 +11,7 @@
 1. **flask_sqlalchemy**
 1. **flask_login**
 
+## Папка ***project*** - это и есть проекта сайта SKNM GAMING
 
 
 
