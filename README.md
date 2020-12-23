@@ -7,7 +7,7 @@
 
 ## <p align="center"> Принцип работы сайта </p>
 
-![Текст по центру изображения](/images/functional.png)
+![Текст по центру изображения](/images/fuctional.png)
 
 
 
